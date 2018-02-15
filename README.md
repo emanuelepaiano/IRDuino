@@ -1,7 +1,7 @@
 # IRDuino
  IRLib2 sketch for jIRDuino
 
-
+<pre>
 /* 
   *  IRDuino - IR Controller Sketch for Arduino
   *  License: GPL-3.0
@@ -39,3 +39,4 @@
   *     1   |    3     |    1     |    0     |   receiver dumpResult()
   * ----------------------------------------------------------------------
 */
+</pre>
