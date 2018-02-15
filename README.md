@@ -8,7 +8,7 @@
   *  2018 - Emanuele Paiano - nixw0rm [at] gmail.com
   *  
   * Sintax serial:
-  *  <opcode>, <param1>, <param2>, <param3>
+  *  opcode, param1, param2, param3
   *  
   *  
   *  example: 0,7,3772793023,32  -> irSender.send(7, 3772793023, 32)
