@@ -1,4 +1,4 @@
-# IRDuino
+# IRDuino - IRLib2 version
  IRLib2 sketch for jIRDuino
 
 <pre>
