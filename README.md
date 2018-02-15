@@ -1,5 +1,8 @@
-# IRDuino - IRLib2 Arduino Sketch for jIRDuino (https://github.com/emanuelepaiano/jIRDuino)
- IRLib2 sketch for jIRDuino. Based on Cyborg5's library - https://github.com/cyborg5/IRLib2
+# IRDuino 
+
+IRLib2 Arduino Sketch for jIRDuino (https://github.com/emanuelepaiano/jIRDuino)
+
+Based on Cyborg5's library - https://github.com/cyborg5/IRLib2
 
 <pre>
 /* 
