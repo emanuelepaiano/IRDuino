@@ -12,7 +12,7 @@ You should make a simple circuit to send and receive IR signals as described on 
  
 ## Uploading sketch and integration with Java
 
-After you install IRLib2 as described in tutorials, you need upload IRDuino.ino sketch on your Arduino.
+After you installed IRLib2 as described in tutorials, you need upload IRDuino.ino sketch on your Arduino.
 
 After that, you can configure your Java project for sending / receiving IR signals. Tutorials: https://github.com/emanuelepaiano/jirduino/wiki/Getting-started
 
