@@ -1,4 +1,4 @@
-# IRDuino 
+# IRLib2-based sketch for JIRduino IRLib2Device driver
 
 IRLib2 Arduino Sketch for jIRDuino (https://github.com/emanuelepaiano/jIRDuino)
 
@@ -9,6 +9,8 @@ You should make a simple circuit to send and receive as described on Adafruit Tu
 
  1) Sending IR with Arduino: https://goo.gl/zcFBpj
  2) Receiving IR with Arduino: https://goo.gl/JsK5Uc
+ 
+## Uploading sketch 
 
 
 <pre>
