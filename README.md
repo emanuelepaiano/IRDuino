@@ -4,6 +4,14 @@ IRLib2 Arduino Sketch for jIRDuino (https://github.com/emanuelepaiano/jIRDuino)
 
 Based on Cyborg5's library - https://github.com/cyborg5/IRLib2
 
+## Arduino configuration
+You should make a simple circuit to send and receive as described on Adafruit Tutorials:
+<ul>
+ <li>1) Sending IR with Arduino: goo.gl/zcFBpj</li>
+ <li>2) Receiving IR with Arduino: https://goo.gl/JsK5Uc</li>
+<ul>
+
+
 <pre>
 /* 
   *  IRDuino - IR Controller Sketch for Arduino
