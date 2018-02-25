@@ -5,13 +5,20 @@ IRLib2 Arduino Sketch for jIRDuino (https://github.com/emanuelepaiano/jIRDuino)
 Based on Cyborg5's library - https://github.com/cyborg5/IRLib2
 
 ## Arduino configuration
-You should make a simple circuit to send and receive as described on Adafruit Tutorials:
+You should make a simple circuit to send and receive IR signals as described on Adafruit Tutorials:
 
  1) Sending IR with Arduino: https://goo.gl/zcFBpj
  2) Receiving IR with Arduino: https://goo.gl/JsK5Uc
  
-## Uploading sketch 
+## Uploading sketch and integration with Java
 
+After you install IRLib2 as described in tutorials, you need upload IRDuino.ino sketch on your Arduino.
+
+Now you can pass to configure your Java project to send/receive IR signals: https://github.com/emanuelepaiano/jirduino/wiki/Getting-started
+
+## More
+
+Following code portion, contain sketch commands table list:
 
 <pre>
 /* 
